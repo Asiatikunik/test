@@ -1,0 +1,53 @@
+[{
+		"status": "OpenOk",
+		"conn": 42
+	},
+	{
+		"status": "DataOk",
+		"conn": 42,
+		"num": 1
+	},
+	{
+		"status": "DataOk",
+		"conn": 42,
+		"num": 1,
+		"offset": 0
+	},
+	{
+		"status": "DataOk",
+		"conn": 42,
+		"num": 1,
+		"offset": 50
+	},
+
+	{
+		"status": "DataOk",
+		"conn": 42,
+		"num": 2,
+		"offset": 0
+	},
+	{
+		"status": "DataOk",
+		"conn": 42,
+		"num": 2,
+		"offset": 0
+	},
+
+	{
+		"status": "DataOk",
+		"conn": 42,
+		"num": 3
+	},
+	{
+		"status": "DataOk",
+		"conn": 42,
+		"num": 3,
+		"offset": 0
+	},
+	{
+		"status": "DataOk",
+		"conn": 42,
+		"num": 3,
+		"offset": 50
+	}
+]
